@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+    <g fill="none" fill-rule="nonzero">
+        <rect width="78" height="78" x="1" y="1" stroke="#2DE174" stroke-width="2" rx="16"/>
+        <g fill="#53E78D" transform="translate(18 18)">
+            <path d="M16 0H4a4 4 0 0 0-4 4v12a4 4 0 0 0 4 4h12a4 4 0 0 0 4-4V4a4 4 0 0 0-4-4zM4 16V4h11.18L10 9.18 8.42 7.6l-2.84 2.82 4.42 4.4 6-6V16H4zM16 24H4a4 4 0 0 0-4 4v12a4 4 0 0 0 4 4h12a4 4 0 0 0 4-4V28a4 4 0 0 0-4-4zm0 16H4V28h12v12zM34 20c5.523 0 10-4.477 10-10S39.523 0 34 0 24 4.477 24 10s4.477 10 10 10zm0-16a6 6 0 1 1 0 12 6 6 0 0 1 0-12zM34 24c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10a10 10 0 0 0-10-10zm0 16a6 6 0 1 1 0-12 6 6 0 0 1 0 12z"/>
+            <circle cx="34" cy="10" r="2.6"/>
+        </g>
+    </g>
+</svg>

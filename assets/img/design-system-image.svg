@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1361" height="549" viewBox="0 0 1361 549">
+    <defs>
+        <rect id="b" width="1313" height="501" rx="8"/>
+        <filter id="a" width="105.9%" height="115.6%" x="-3%" y="-6.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="12"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0552080886 0 0 0 0 0.104022954 0 0 0 0 0.504304847 0 0 0 0.8 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(24 18)">
+        <g fill-rule="nonzero">
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <use fill="#FFF" xlink:href="#b"/>
+        </g>
+        <rect width="240" height="84" x="329" y="30" fill="#EEF7FF" fill-rule="nonzero" rx="8"/>
+        <g transform="translate(343.09 321.85)">
+            <text fill="#34495E" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+                <tspan x="60.601" y="19.673">Warning</tspan>
+            </text>
+            <text fill="#BABFC2" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14">
+                <tspan x="60.601" y="42.616">Buttons, labels, graphs.</tspan>
+            </text>
+            <rect width="50.153" height="50.155" fill="#FFC200" fill-rule="nonzero" rx="6"/>
+        </g>
+        <g transform="translate(343.09 414.845)">
+            <text fill="#34495E" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+                <tspan x="60.601" y="18.628">Black</tspan>
+            </text>
+            <text fill="#BABFC2" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14">
+                <tspan x="60.601" y="41.571">Text, buttons, labels, graphs.</tspan>
+            </text>
+            <rect width="50.153" height="50.155" fill="#34495E" fill-rule="nonzero" rx="6"/>
+        </g>
+        <g transform="translate(685.8 321.85)">
+            <text fill="#34495E" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+                <tspan x="62.691" y="19.673">Light Warning</tspan>
+            </text>
+            <text fill="#BABFC2" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14">
+                <tspan x="62.691" y="42.616">Table bg, notifications, text buttons.</tspan>
+            </text>
+            <rect width="50.153" height="50.155" fill="#FFF3D1" fill-rule="nonzero" rx="6"/>
+        </g>
+        <g transform="translate(685.8 414.845)">
+            <text fill="#BABFC2" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14">
+                <tspan x="62.691" y="41.571">Table bg, notifications, text buttons.</tspan>
+            </text>
+            <rect width="50.153" height="50.155" fill="#AFB6BB" fill-rule="nonzero" rx="6"/>
+            <text fill="#34495E" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+                <tspan x="62.691" y="18.628">Light Black</tspan>
+            </text>
+        </g>
+        <g transform="translate(341 46)">
+            <text fill="#BABFC2" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14">
+                <tspan x="62.691" y="41.571">Buttons, labels, graphs.</tspan>
+            </text>
+            <text fill="#34495E" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+                <tspan x="62.691" y="19.673">Primary &amp; Success</tspan>
+            </text>
+            <rect width="50.153" height="50.155" fill="#40E583" fill-rule="nonzero" rx="6"/>
+        </g>
+        <g transform="translate(341 137.95)">
+            <text fill="#BABFC2" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14">
+                <tspan x="62.691" y="39.481">Buttons, labels, graphs.</tspan>
+            </text>
+            <text fill="#34495E" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+                <tspan x="62.691" y="16.539">Info</tspan>
+            </text>
+            <rect width="50.153" height="50.155" fill="#2C82E0" fill-rule="nonzero" rx="6"/>
+        </g>
+        <g transform="translate(341 229.9)">
+            <text fill="#34495E" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+                <tspan x="62.691" y="18.628">Error</tspan>
+            </text>
+            <text fill="#BABFC2" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14">
+                <tspan x="62.691" y="41.571">Buttons, labels, graphs.</tspan>
+            </text>
+            <rect width="50.153" height="50.155" fill="#E34B4A" fill-rule="nonzero" rx="6"/>
+        </g>
+        <g transform="translate(685.8 46)">
+            <text fill="#BABFC2" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14">
+                <tspan x="62.691" y="41.571">Table bg, notifications, text buttons.</tspan>
+            </text>
+            <text fill="#34495E" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+                <tspan x="62.691" y="19.673">Light Primary &amp; Success</tspan>
+            </text>
+            <rect width="50.153" height="50.155" fill="#D6FFD3" fill-rule="nonzero" rx="6"/>
+        </g>
+        <g transform="translate(685.8 229.9)">
+            <text fill="#BABFC2" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14">
+                <tspan x="62.691" y="41.571">Table bg, notifications, text buttons.</tspan>
+            </text>
+            <text fill="#34495E" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+                <tspan x="62.691" y="18.628">Light Error</tspan>
+            </text>
+            <rect width="50.153" height="50.155" fill="#FFEBEB" fill-rule="nonzero" rx="6"/>
+        </g>
+        <g transform="translate(685.8 137.95)">
+            <text fill="#BABFC2" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14">
+                <tspan x="62.691" y="39.481">Table bg, notifications, text buttons.</tspan>
+            </text>
+            <text fill="#34495E" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+                <tspan x="62.691" y="16.539">Light Info</tspan>
+            </text>
+            <rect width="50.153" height="50.155" fill="#CAEEFF" fill-rule="nonzero" rx="6"/>
+        </g>
+        <path fill="#F4F7F8" fill-rule="nonzero" d="M1000 0h305a8 8 0 0 1 8 8v485a8 8 0 0 1-8 8h-305V0z"/>
+        <g>
+            <path fill-rule="nonzero" d="M1003.13 319.853h271.267V370H1003.13zM1003.13 269.706h271.267v50.147H1003.13z"/>
+            <path fill="#07145A" fill-rule="nonzero" d="M1000 269.706h313v1.045h-313zM1000 319.853h313v1.045h-313zM1000 368.955h313V370h-313z"/>
+            <path stroke="#4D5CAA" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1282.743 293.735l4.174 4.179 4.173-4.18M1282.743 343.882l4.174 4.179 4.173-4.18"/>
+            <path fill-rule="nonzero" d="M1003.13 319.853h271.267V370H1003.13zM1003.13 269.706h271.267v50.147H1003.13z"/>
+            <text fill="#808B92" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="18" font-weight="500" transform="translate(1000 43)">
+                <tspan x="29.583" y="257.757">Details</tspan>
+            </text>
+            <path fill="#E6ECF0" fill-rule="nonzero" d="M1000 269.706h313v1.045h-313zM1000 319.853h313v1.045h-313zM1000 368.955h313V370h-313z"/>
+            <text fill="#808B92" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="18" font-weight="500" transform="translate(1000 43)">
+                <tspan x="30.37" y="307.904">Export Code</tspan>
+            </text>
+            <path stroke="#C2CCD3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1282.743 293.735l4.174 4.179 4.173-4.18M1282.743 47.179l4.174-4.179 4.173 4.179M1282.743 343.882l4.174 4.179 4.173-4.18"/>
+        </g>
+        <g>
+            <path fill="#FFF" fill-rule="nonzero" d="M29.213 70.975h13.563v13.569H29.213z"/>
+            <path fill="#0B1C72" fill-rule="nonzero" d="M0 0h313v501H0z"/>
+            <path fill-rule="nonzero" d="M3.13 203.531h271.267v50.1H3.13zM3.13 153.431h271.267v50.1H3.13z"/>
+            <path fill="#07145A" fill-rule="nonzero" d="M0 153.431h313v1.044H0zM0 203.531h313v1.044H0zM0 252.588h313v1.044H0z"/>
+            <text fill="#FFF" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="18" font-weight="500">
+                <tspan x="29.427" y="50.859">Core</tspan>
+            </text>
+            <text fill="#8B96CE" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="18" font-weight="500">
+                <tspan x="31.358" y="184.459">Components</tspan>
+            </text>
+            <text fill="#8B96CE" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="18" font-weight="500">
+                <tspan x="30.728" y="234.559">Pages</tspan>
+            </text>
+            <path fill="#081763" fill-rule="nonzero" d="M0 63.669h313v41.75H0z"/>
+            <g stroke="#4D5CAA" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M282.743 177.438l4.174 4.174 4.173-4.174M282.743 46.969l4.174-4.175 4.173 4.175"/>
+            </g>
+            <path stroke="#4D5CAA" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M282.743 227.537l4.174 4.175 4.173-4.174"/>
+            <text font-family="SourceSansPro-Regular, Source Sans Pro" font-size="15">
+                <tspan x="44.863" y="87.375" fill="#FFF">Colors</tspan> <tspan x="44.863" y="127.375" fill="#8B96CE">Typography</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#FFF" fill-rule="nonzero" d="M29.213 70.975h13.563v13.569H29.213z"/>
+            <path fill="#F4F7F8" fill-rule="nonzero" d="M8 0h305v501H8a8 8 0 0 1-8-8V8a8 8 0 0 1 8-8z"/>
+            <path fill-rule="nonzero" d="M3.13 203.531h271.267v50.1H3.13zM3.13 153.431h271.267v50.1H3.13z"/>
+            <path fill="#E6ECF0" fill-rule="nonzero" d="M0 153.431h313v1.044H0zM0 203.531h313v1.044H0zM0 252.588h313v1.044H0z"/>
+            <text fill="#0F0F10" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="18" font-weight="500">
+                <tspan x="29.427" y="50.859">Core</tspan>
+            </text>
+            <text fill="#808B92" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="18" font-weight="500">
+                <tspan x="31.358" y="184.459">Components</tspan>
+            </text>
+            <text fill="#808B92" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="18" font-weight="500">
+                <tspan x="29.684" y="234.559">Pages</tspan>
+            </text>
+            <path fill="#E6ECF0" fill-rule="nonzero" d="M0 63.669h313v41.75H0z"/>
+            <path stroke="#C2CCD3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M282.743 177.438l4.174 4.175 4.173-4.175M282.743 46.969l4.174-4.175 4.173 4.175M282.743 227.537l4.174 4.175 4.173-4.174"/>
+            <text fill="#1B1D1D" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="15">
+                <tspan x="44.863" y="87.375">Colors</tspan> <tspan x="44.863" y="127.375">Typography</tspan>
+            </text>
+        </g>
+        <g transform="translate(1025 73)">
+            <text fill="#3F3B3B" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+                <tspan x="0" y="16.476">HEX:</tspan>
+            </text>
+            <path fill="#DDE5EA" fill-rule="nonzero" d="M0 27.238h263V66H0z"/>
+            <text fill="#3F3B3B" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+                <tspan x="10.437" y="51.048">40E583</tspan>
+            </text>
+            <rect width="50.095" height="23.048" x="205.599" y="35.619" fill="#2C82E0" fill-rule="nonzero" rx="3"/>
+            <text fill="#FFF" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="12" font-weight="500" letter-spacing="1">
+                <tspan x="215.869" y="52.167">COP</tspan> <tspan x="240.457" y="52.167">Y</tspan>
+            </text>
+        </g>
+        <g transform="translate(1025 164)">
+            <text fill="#3F3B3B" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+                <tspan x="0" y="16.476">RGBA:</tspan>
+            </text>
+            <path fill="#DDE5EA" fill-rule="nonzero" d="M0 27.238h263V66H0z"/>
+            <text fill="#3F3B3B" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+                <tspan x="10.437" y="51.048">64, 229, 131, 100</tspan>
+            </text>
+            <rect width="50.095" height="23.048" x="205.599" y="35.619" fill="#2C82E0" fill-rule="nonzero" rx="3"/>
+            <text fill="#FFF" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="12" font-weight="500" letter-spacing="1">
+                <tspan x="215.869" y="52.167">COP</tspan> <tspan x="240.457" y="52.167">Y</tspan>
+            </text>
+        </g>
+        <text fill="#0F0F10" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="18" font-weight="500">
+            <tspan x="1027.419" y="51">Properties</tspan>
+        </text>
+    </g>
+</svg>

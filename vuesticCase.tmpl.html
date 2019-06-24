@@ -149,7 +149,7 @@
 				<p class="regular_paragraph">
 					We constantly update and maintain Vuestic since 2017. The major release in Q1 2019 includes new component design independent of Bootstrap; better, truly reusable versions of the previous components, and more pages of admin dashboard with a focus on tables and forms.
 				</p>
-				<div id="evoludion_demo" class="evoludion_demo beer-slider">
+				<div id="evoludion_demo" class="evolution_demo_slider beer-slider">
 					<img srcset="./assets/img/vuestic-case/vuestic-2.png 1313w,
 							 ./assets/img/vuestic-case/vuestic-2@2x.png 2626w,
 							 ./assets/img/vuestic-case/vuestic-2@3x.png 3939w"
@@ -167,6 +167,7 @@
 							src="./assets/img/vuestic-case/vuestic-1@3x.png" alt="Vuestic case after" />
 					</div>
 				</div>
+				<img class="evoludion_demo_static" src="./assets/img/vuestic-case/evolution-compare.png" alt="Vuestic case comparison" />
 			</div>
 			<div class="launch_impact">
                 <h2 class="case_section_regular_header launch_impact_title">Launch &#38; Impact</h2>
@@ -240,8 +241,12 @@
 			</footer>
 		</section>
     </body>
-	<script src="./libs/beer-slider/beer-slider.js"></script>
+	<script type="text/javascript" src="./assets/scripts/loadScript.js"></script>
 	<script>
-		new BeerSlider( document.getElementById("evoludion_demo"));
+		if (window.innerWidth > 560) { 
+			loadScript('./libs/beer-slider/beer-slider.js', function() {
+				new BeerSlider( document.getElementById("evoludion_demo"));
+			});
+		}
 	</script>
 </html>

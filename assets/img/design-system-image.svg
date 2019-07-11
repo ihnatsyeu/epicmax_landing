@@ -120,25 +120,24 @@
         </g>
         <g>
             <path fill="#FFF" fill-rule="nonzero" d="M29.213 70.975h13.563v13.569H29.213z"/>
-            <path fill="#0B1C72" fill-rule="nonzero" d="M0 0h313v501H0z"/>
             <path fill-rule="nonzero" d="M3.13 203.531h271.267v50.1H3.13zM3.13 153.431h271.267v50.1H3.13z"/>
             <path fill="#07145A" fill-rule="nonzero" d="M0 153.431h313v1.044H0zM0 203.531h313v1.044H0zM0 252.588h313v1.044H0z"/>
-            <text fill="#FFF" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="18" font-weight="500">
-                <tspan x="29.427" y="50.859">Core</tspan>
+            <text fill="#FFF" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="18" font-weight="500" transform="translate(0 32)">
+                <tspan x="29.427" y="18.859">Core</tspan>
             </text>
-            <text fill="#8B96CE" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="18" font-weight="500">
-                <tspan x="31.358" y="184.459">Components</tspan>
+            <text fill="#8B96CE" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="18" font-weight="500" transform="translate(0 32)">
+                <tspan x="31.358" y="152.459">Components</tspan>
             </text>
-            <text fill="#8B96CE" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="18" font-weight="500">
-                <tspan x="30.728" y="234.559">Pages</tspan>
+            <text fill="#8B96CE" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="18" font-weight="500" transform="translate(0 32)">
+                <tspan x="30.728" y="202.559">Pages</tspan>
             </text>
             <path fill="#081763" fill-rule="nonzero" d="M0 63.669h313v41.75H0z"/>
             <g stroke="#4D5CAA" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
                 <path d="M282.743 177.438l4.174 4.174 4.173-4.174M282.743 46.969l4.174-4.175 4.173 4.175"/>
             </g>
             <path stroke="#4D5CAA" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M282.743 227.537l4.174 4.175 4.173-4.174"/>
-            <text font-family="SourceSansPro-Regular, Source Sans Pro" font-size="15">
-                <tspan x="44.863" y="87.375" fill="#FFF">Colors</tspan> <tspan x="44.863" y="127.375" fill="#8B96CE">Typography</tspan>
+            <text font-family="SourceSansPro-Regular, Source Sans Pro" font-size="15" transform="translate(0 32)">
+                <tspan x="44.863" y="55.375" fill="#FFF">Colors</tspan> <tspan x="44.863" y="95.375" fill="#8B96CE">Typography</tspan>
             </text>
         </g>
         <g>

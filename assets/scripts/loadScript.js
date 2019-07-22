@@ -1,18 +1,1 @@
-function loadScript( url, callback ) {
-	var script = document.createElement( "script" )
-	script.src = url;
-	script.type = "text/javascript";
-	if(script.readyState) {
-		script.onreadystatechange = function() {
-			if ( script.readyState === 'loaded' || script.readyState === 'complete' ) {
-				script.onreadystatechange = null;
-				callback();
-			}
-		};
-	} else {
-		script.onload = function() {
-			callback();
-		};
-	}
-	document.body.appendChild( script );
-}
+function loadScript(e,t){var a=document.createElement("script");a.src=e,a.type="text/javascript",a.readyState?a.onreadystatechange=function(){"loaded"!==a.readyState&&"complete"!==a.readyState||(a.onreadystatechange=null,t())}:a.onload=function(){t()},document.body.appendChild(a)}

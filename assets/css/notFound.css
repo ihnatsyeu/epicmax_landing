@@ -1,0 +1,68 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.page_content {
+	height: 100%;
+	display: flex;
+    align-items: center;
+}
+
+.page_details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.page_details .title {
+	font-size: 5em;
+	line-height: 1.25;
+	font-family: SourceSansPro-Black;
+	text-align: center;
+}
+
+.nav_menu {
+	margin: 20px 0 0 0;
+}
+.nav_menu .home_link {
+    border-color: #000;
+    color: #000;
+}
+
+.nav_menu .home_link:hover {
+    border-color: #8a8a8a;
+    color: #8a8a8a;
+}
+
+.nav_menu .home_link::before {
+    content: '';
+    background-size: cover;
+    background-image: url(../img/chevronLeftBlack.svg);
+    height: 24px;
+    width: 24px
+}
+
+.nav_menu .home_link:hover::before {
+    background-image: url(../img/chevronLeftDarkGrey.svg)
+}
+
+@media (max-width:1440px) {
+	html {
+		font-size: 12.8px
+	}
+	.page_content {
+		padding: 0 40px;
+	}
+	.nav_menu .home_link {
+		padding: 5px 12px;
+	}
+}
+
+
+@media (min-width:360px) and (max-width:759px), (min-device-width:360px) and (max-device-width:759px) {
+	html {
+		font-size: 10.4px
+	}
+}
